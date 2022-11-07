@@ -8,15 +8,8 @@
 
 - Make bvh, obj viewer with OpenGL
 
-  <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment1/1.gif?raw=true' style="zoom: 50%;" >
-  
-  <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment2/2.gif?raw=true' style="zoom: 50%;" >
-  
-  <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment3/3.gif?raw=true' style="zoom: 50%;" >
-  
-  
-  
-  
+  | <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment1/1.gif?raw=true' style="zoom: 100%;" > | <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment2/2.gif?raw=true' style="zoom: 100%;" > | <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment3/3.gif?raw=true' style="zoom: 100%;" > |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 
