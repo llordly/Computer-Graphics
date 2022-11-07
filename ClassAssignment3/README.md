@@ -25,27 +25,24 @@
 - `spacebar`를 누르면 motion을 동작하도록 했다. Glfw.swap_interval(1)로 고정했고, 파일의 fps에 따라 속도를 조절하게 했으며, fps가 60을 넘어갈 경우 그냥 60fps로 고정했다.
 
 - Bvh파일을 drop하면 file name, number of frames, FPS, Number of joints, List of all joint names가 나오도록 했다.
-  - <img src=''>
+  - <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment3/result.png?raw=true'>
 
 - 복싱을 하는 모션 파일을 다운받아서 사용했으며 해당 애니메이션 링크는 다음과 같다.
   - https://youtu.be/7zP5zMgpqeY
 
 - 다음은 sample 파일을 그린 것이고 왼쪽은 line skeleton, 오른쪽은 obj로 그린 것이다.
 
-viii. 
+| <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment3/sample_tpose.png?raw=true'> | <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment3/sample_tpose_obj.png?raw=true'> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-|      |      |
-| ---- | ---- |
+- 다음은 sample 파일의 motion이다.
 
+| <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment3/spin.png?raw=true'> | <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment3/walk.png?raw=true'> | <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment3/walk_obj.png?raw=true'> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
- 다음은 sample 파일의 motion이다.
+- 다음은 download bvh의 skeleton과 motion이다.
 
-ix.  
+  | <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment3/boxing_tpose_scel.png?raw=true'> | <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment3/boxing_tpose.png?raw=true'> | <img src='https://github.com/llordly/Computer-Graphics/blob/master/ClassAssignment3/boxing2.png?raw=true'> |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-|      |                                                              |      |                                                              |      |                                                              |
-| ---- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-|      | ![알 수 없음_2.png](blob:file:///7ed61b63-aaf3-451c-b4c2-022a1c999647) |      | ![알 수 없음_3.png](blob:file:///c060ea6e-9d03-4dd8-8e62-de83af9fd3e9) |      | ![알 수 없음_4.png](blob:file:///5d3bac7c-c19f-4a8a-9d75-c7e4fd6cf7d5) |
-|      |                                                              |      |                                                              |      |                                                              |
-
-
- 다음은 download bvh의 skeleton과 motion이다.
+  
